@@ -1,4 +1,4 @@
-build javacript framework and work like React + Redux
+build javacript framework work like React + Redux
 
 ![code](https://user-images.githubusercontent.com/67855349/130044191-c3e2fe13-18c8-4b0c-884d-78dabd1be304.JPG)
 
