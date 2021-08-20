@@ -6,7 +6,7 @@ result:
 
 ![Capture](https://user-images.githubusercontent.com/67855349/130043870-7fcedfbb-cb0f-486b-af45-c56b35fd14dc.JPG)
 
-link test app:
+link test web:
 http://vieccanlam.tk/
 
 learn how to build this framework:
